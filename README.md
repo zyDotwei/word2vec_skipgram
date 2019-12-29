@@ -20,15 +20,22 @@
   词频词典、word2id字典、id2word字典  
 
 ### 下采样
-
+![sub_sampling](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/sub_sampling.png)
 
 ### Negative Sampling
+![neg](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/neg.png)
 
 ## 实验结果
 
 ### 可视化
+![baidu](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/baidu.png)
+![color](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/color.png)
+![caodai](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/chaodai.png)
 
 ### 前10相似短语
+![computer](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/computer.png)
+![shandong](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/shandong.png)
+
 
 
 
