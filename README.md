@@ -28,13 +28,13 @@
 ## 实验结果
 
 ### 可视化
-![baidu](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/baidu.png)
-![color](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/color.png)
-![caodai](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/chaodai.png)
+![baidu](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/baidu.png)  
+![color](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/color.png)  
+![caodai](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/chaodai.png)  
 
 ### 前10相似短语
-![computer](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/computer.png)
-![shandong](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/shandong.png)
+![computer](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/computer.png)  
+![shandong](https://github.com/zyDotwei/word2vec_skipgram/blob/master/image/shandong.png)  
 
 
 
