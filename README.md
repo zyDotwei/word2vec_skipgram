@@ -1,5 +1,5 @@
 # word2vec_skipgram  
-  记一次自己手写加训练基于负采样的skip-gram的Word2vec。
+  记一次自己手写训练基于负采样的skip-gram的Word2vec。
 
 ## 数据获取
   从wki上获取了原始中文xml格式的数据，大约1.82G。  
